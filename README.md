@@ -53,22 +53,12 @@ This project is a Python-based application to generate visually appealing QR cod
 
 3. Click the **Generate QR Code** button.
 
-4. The generated QR code will be displayed within the application and saved as `enhanced_qrcode.png`.
-
----
-
-## Example Output
-- **With Logo**: A QR code featuring a centered logo with rounded modules and gradient colors.
-- **Without Logo**: A sleek QR code with customized styling but no logo.
-
 ---
 
 ## Project Structure
 ```
 .
 ├── qr_code_generator.py  # Main application script
-├── logo.png              # Optional logo file (user-provided)
-└── enhanced_qrcode.png   # Generated QR code output
 ```
 
 ---
@@ -96,7 +86,7 @@ Contributions are welcome! Feel free to fork this repository and submit a pull r
 ---
 
 ## Author
-[Your Name](https://github.com/yourusername)
+[Prithviraj Verma](https://github.com/PR-ODINSON)
 
 ---
 
